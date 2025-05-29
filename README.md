@@ -3,6 +3,7 @@
 **YanaMiku API** adalah REST API publik yang menyediakan berbagai layanan mulai dari pencarian informasi, alat bantu, manipulasi gambar, hingga layanan AI. Dirancang untuk kemudahan integrasi dengan berbagai aplikasi, bot, maupun proyek pribadi Anda.
 
 🔗 **Website**: `https://api-yanamiku.vercel.app`
+
 🔗 **Base URL**: `https://api-yanamiku.vercel.app/api/yanamiku`
 
 ## 🚀 Cara Penggunaan
